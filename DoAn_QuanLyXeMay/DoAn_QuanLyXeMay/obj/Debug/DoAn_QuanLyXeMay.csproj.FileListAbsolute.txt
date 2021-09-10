@@ -1,0 +1,79 @@
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe.config
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.pdb
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csprojResolveAssemblyReference.cache
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Properties.Resources.resources
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csproj.GenerateResource.Cache
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.exe
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.pdb
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Login.resources
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Form1.resources
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Xe.resources
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmQuanLy.resources
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmNhanVien.resources
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csprojAssemblyReference.cache
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.exe
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.pdb
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe.config
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.pdb
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Form1.resources
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmHoaDonBanHang.resources
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmNhanVien.resources
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmQuanLy.resources
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Login.resources
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Properties.Resources.resources
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Xe.resources
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csproj.GenerateResource.cache
+D:\Visual heo\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csproj.CoreCompileInputs.cache
+D:\Heo's document. Pls do  not delete\.NET\DoAn\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmHoaDonBanHang.resources
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csprojAssemblyReference.cache
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Form1.resources
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmHoaDonBanHang.resources
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmNhanVien.resources
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmQuanLy.resources
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Login.resources
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Properties.Resources.resources
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Xe.resources
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csproj.GenerateResource.cache
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csproj.CoreCompileInputs.cache
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.exe
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.pdb
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe.config
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe
+E:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.pdb
+F:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe.config
+F:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.exe
+F:\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.pdb
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe.config
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.exe
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.pdb
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.pdb
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Form1.resources
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmHoaDonBan.resources
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmNhanVien.resources
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmQuanLy.resources
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Login.resources
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Properties.Resources.resources
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Xe.resources
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csproj.GenerateResource.Cache
+C:\Users\Nhan\Desktop\New folder\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csprojResolveAssemblyReference.cache
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe.config
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.exe
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.pdb
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.exe
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\bin\Debug\DoAn_QuanLyXeMay.pdb
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmHoaDonBan.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmNhanVien.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.frmQuanLy.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Login.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Properties.Resources.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.Xe.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csproj.GenerateResource.Cache
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.DangKy.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.FrKhachHang.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.FrNhaCC.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.FrNhanVien.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.FrSanPham_NV_.resources
+C:\Users\Nhan\Downloads\DoAn_QuanLyXeMay\DoAn_QuanLyXeMay\obj\Debug\DoAn_QuanLyXeMay.csprojResolveAssemblyReference.cache
